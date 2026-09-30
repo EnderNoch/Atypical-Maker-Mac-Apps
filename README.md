@@ -2,7 +2,7 @@
 
 Small Mac apps by [EnderNoch](https://github.com/EnderNoch) (Atypical Maker). Each one does one
 thing, looks like part of macOS 26/27, and takes from the system everything the system already
-offers: language, light and dark appearance, accent color, the Liquid Glass slider and the icon
+offers: language (43 of them, following the system like Apple's apps), light and dark appearance, accent color, the Liquid Glass slider and the icon
 style.
 
 *[Po polsku niżej.](#po-polsku)*
@@ -30,7 +30,8 @@ redistributed or modified — see each app's LICENSE.
 ## Po polsku
 
 Małe aplikacje na Maca od EnderNoch (Atypical Maker). Każda robi jedną rzecz, wygląda jak część
-macOS 26/27 i bierze z systemu wszystko, co system już daje: język, jasny i ciemny wygląd, kolor
+macOS 26/27 i bierze z systemu wszystko, co system już daje: język (43 języki, jak w aplikacjach
+Apple), jasny i ciemny wygląd, kolor
 akcentu, suwak Liquid Glass i styl ikon.
 
 - **[Światło ekranu](https://github.com/EnderNoch/Screen-Light)** — lampa doświetlająca z ekranu
