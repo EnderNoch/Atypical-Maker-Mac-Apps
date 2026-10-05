@@ -11,6 +11,7 @@ style.
 | :---: | --- | --- | :---: |
 | <img src="images/screen-light-icon.png" width="96" alt=""> | **[Screen Light](https://github.com/EnderNoch/Screen-Light)**<br>Światło ekranu | A fill light made of your screen, for video calls and photos: the whole screen glows in the chosen color, or just a band around the edges (like the system's Edge Light), and it turns on by itself with Photo Booth.<br>[Download](https://github.com/EnderNoch/Screen-Light/raw/main/Screen-Light.zip) | <img src="images/screen-light.jpg" width="160" alt="Screen Light"> |
 | <img src="images/minutnik-icon.png" width="96" alt=""> | **[Timer](https://github.com/EnderNoch/Timer)**<br>Minutnik | A timer for the menu bar and a window: a dial like a kitchen timer, time typed right in the ring, the system's alert sounds as in Clock, and presets.<br>[Download](https://github.com/EnderNoch/Timer/raw/main/Timer.zip) | <img src="images/minutnik.jpg" width="160" alt="Timer"> |
+| <img src="images/fiszki-icon.png" width="96" alt=""> | **[Flashcards from File](https://github.com/EnderNoch/Flashcards-from-File)**<br>Fiszki z pliku | Flashcards from a CSV, TXT or TSV file: a card that turns over, Got It / Don't Know, retry the missed ones, formulas drawn offline, and every deck remembers where you were.<br>[Download](https://github.com/EnderNoch/Flashcards-from-File/raw/main/Flashcards-from-File.zip) | <img src="images/fiszki.jpg" width="160" alt="Flashcards from File"> |
 
 ## Installing
 
@@ -41,6 +42,10 @@ akcentu, suwak Liquid Glass i styl ikon.
 - **[Minutnik](https://github.com/EnderNoch/Timer)** — timer na pasek menu i okno: tarcza jak minutnik
   kuchenny, czas wpisywany w kole, dzwonki systemu jak w Zegarze, presety.
   [Pobierz](https://github.com/EnderNoch/Timer/raw/main/Timer.zip)
+- **[Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File)** — fiszki z pliku CSV, TXT albo TSV:
+  karta, która się obraca, Umiem / Nie umiem, powtórka nieumianych, wzory rysowane offline, a każda
+  talia pamięta, gdzie skończyłeś.
+  [Pobierz](https://github.com/EnderNoch/Flashcards-from-File/raw/main/Flashcards-from-File.zip)
 
 Instalacja: otwórz plik zip z repozytorium aplikacji i przeciągnij aplikację do folderu Aplikacje.
 Przy pierwszym uruchomieniu trzeba ją raz dopuścić: Ustawienia systemowe → Prywatność i ochrona →
