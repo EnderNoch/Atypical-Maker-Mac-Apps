@@ -35,17 +35,11 @@ macOS 26/27 i bierze z systemu wszystko, co system już daje: język (43 języki
 Apple), jasny i ciemny wygląd, kolor
 akcentu, suwak Liquid Glass i styl ikon.
 
-- **[Światło ekranu](https://github.com/EnderNoch/Screen-Light)** — lampa doświetlająca z ekranu
-  do rozmów wideo i zdjęć: cały ekran świeci wybranym kolorem albo tylko ramka wokół krawędzi
-  (jak systemowe Doświetlenie ekranem); sama włącza się przy Photo Booth.
-  [Pobierz](https://github.com/EnderNoch/Screen-Light/raw/main/Screen-Light.zip)
-- **[Minutnik](https://github.com/EnderNoch/Timer)** — timer na pasek menu i okno: tarcza jak minutnik
-  kuchenny, czas wpisywany w kole, dzwonki systemu jak w Zegarze, presety.
-  [Pobierz](https://github.com/EnderNoch/Timer/raw/main/Timer.zip)
-- **[Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File)** — fiszki z pliku CSV, TXT albo TSV:
-  karta, która się obraca, Umiem / Nie umiem, powtórka nieumianych, wzory rysowane offline, a każda
-  talia pamięta, gdzie skończyłeś.
-  [Pobierz](https://github.com/EnderNoch/Flashcards-from-File/raw/main/Flashcards-from-File.zip)
+| | Aplikacja | Co robi | |
+| :---: | --- | --- | :---: |
+| <img src="images/screen-light-icon.png" width="96" alt=""> | **[Światło ekranu](https://github.com/EnderNoch/Screen-Light)**<br>Screen Light | Lampa doświetlająca z ekranu do rozmów wideo i zdjęć: cały ekran świeci wybranym kolorem albo tylko ramka wokół krawędzi (jak systemowe Doświetlenie ekranem); sama włącza się przy Photo Booth.<br>[Pobierz](https://github.com/EnderNoch/Screen-Light/raw/main/Screen-Light.zip) | <img src="images/screen-light.jpg" width="160" alt="Światło ekranu"> |
+| <img src="images/minutnik-icon.png" width="96" alt=""> | **[Minutnik](https://github.com/EnderNoch/Timer)**<br>Timer | Timer na pasek menu i okno: tarcza jak minutnik kuchenny, czas wpisywany w kole, dzwonki systemu jak w Zegarze, presety.<br>[Pobierz](https://github.com/EnderNoch/Timer/raw/main/Timer.zip) | <img src="images/minutnik.jpg" width="160" alt="Minutnik"> |
+| <img src="images/fiszki-icon.png" width="96" alt=""> | **[Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File)**<br>Flashcards from File | Fiszki z pliku CSV, TXT albo TSV: karta, która się obraca, Umiem / Nie umiem, powtórka nieumianych, wzory rysowane offline, a każda talia pamięta, gdzie skończyłeś.<br>[Pobierz](https://github.com/EnderNoch/Flashcards-from-File/raw/main/Flashcards-from-File.zip) | <img src="images/fiszki.jpg" width="160" alt="Fiszki z pliku"> |
 
 Instalacja: otwórz plik zip z repozytorium aplikacji i przeciągnij aplikację do folderu Aplikacje.
 Przy pierwszym uruchomieniu trzeba ją raz dopuścić: Ustawienia systemowe → Prywatność i ochrona →
